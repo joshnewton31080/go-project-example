@@ -6,6 +6,7 @@ require (
 	firebase.google.com/go v3.9.0+incompatible
 	github.com/BurntSushi/toml v0.3.1
 	github.com/aws/aws-sdk-go v1.25.21
+	github.com/aws/aws-sdk-go/service/s3/s3crypto v1.31.1
 	github.com/coreos/bbolt v1.3.3 // indirect
 	github.com/coreos/etcd v3.3.18+incompatible // indirect
 	github.com/coreos/go-semver v0.3.0 // indirect
